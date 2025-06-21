@@ -1,0 +1,37 @@
+{
+  "@@locale": "zh",
+  "homeTitle": "首頁",
+  "proceduresTitle": "守則",
+  "checklistTitle": "清單",
+  "mapTitle": "地圖",
+  "contactsTitle": "聯絡",
+  "emergencyKit": "EmergencyKit",
+  "resetSelections": "重置選擇",
+  "clearList": "清空清單",  "exportShare": "匯出 / 分享",
+  "quantity": "數量: {quantity}",
+  "@quantity": {
+    "placeholders": {
+      "quantity": {
+        "type": "String"
+      }
+    }
+  },"listCopiedToClipboard": "清單已複製到剪貼簿",
+  "all": "全部",
+  "search": "搜尋",
+  "searchItems": "搜尋物品...",
+  "addItem": "新增物品",
+  "editItem": "編輯物品",  "itemName": "物品名稱",
+  "categoryField": "類別",
+  "quantityField": "數量",
+  "save": "儲存",
+  "cancel": "取消",
+  "itemNameRequired": "物品名稱為必填",
+  "categoryRequired": "類別為必填",
+  "quantityRequired": "數量為必填",
+  "food": "食物",
+  "water": "水",
+  "medical": "醫療用品",
+  "tools": "工具",
+  "clothing": "衣物",
+  "other": "其他"
+}

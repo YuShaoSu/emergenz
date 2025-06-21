@@ -1,0 +1,38 @@
+{
+  "@@locale": "en",
+  "homeTitle": "Home",
+  "proceduresTitle": "Procedures",
+  "checklistTitle": "Checklist",
+  "mapTitle": "Shelter Map",
+  "contactsTitle": "Contacts",
+  "emergencyKit": "Emergency Kit",
+  "resetSelections": "Reset selections",
+  "clearList": "Clear list",  "exportShare": "Export / Share",
+  "quantity": "Qty: {quantity}",
+  "@quantity": {
+    "placeholders": {
+      "quantity": {
+        "type": "String"
+      }
+    }
+  },
+  "listCopiedToClipboard": "List copied to clipboard",
+  "all": "All",
+  "search": "Search",
+  "searchItems": "Search items...",
+  "addItem": "Add Item",
+  "editItem": "Edit Item",  "itemName": "Item Name",
+  "categoryField": "Category",
+  "quantityField": "Quantity",
+  "save": "Save",
+  "cancel": "Cancel",
+  "itemNameRequired": "Item name is required",
+  "categoryRequired": "Category is required",
+  "quantityRequired": "Quantity is required",
+  "food": "Food",
+  "water": "Water",
+  "medical": "Medical",
+  "tools": "Tools",
+  "clothing": "Clothing",
+  "other": "Other"
+}
