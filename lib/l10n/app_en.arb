@@ -7,7 +7,8 @@
   "contactsTitle": "Contacts",
   "emergencyKit": "Emergency Kit",
   "resetSelections": "Reset selections",
-  "clearList": "Clear list",  "exportShare": "Export / Share",
+  "clearList": "Clear list",
+  "exportShare": "Export / Share",
   "quantity": "Qty: {quantity}",
   "@quantity": {
     "placeholders": {
@@ -21,7 +22,8 @@
   "search": "Search",
   "searchItems": "Search items...",
   "addItem": "Add Item",
-  "editItem": "Edit Item",  "itemName": "Item Name",
+  "editItem": "Edit Item",
+  "itemName": "Item Name",
   "categoryField": "Category",
   "quantityField": "Quantity",
   "save": "Save",
@@ -34,5 +36,50 @@
   "medical": "Medical",
   "tools": "Tools",
   "clothing": "Clothing",
-  "other": "Other"
+  "other": "Other",
+  "emergency": "Emergency",
+  "emergencyProcedures": "Emergency Procedures",
+  "emergencyContacts": "Emergency Contacts",
+  "quickActions": "Quick Actions",
+  "callEmergency": "Call Emergency",
+  "viewMap": "View Map",
+  "contacts": "Contacts",
+  "responseSteps": "Response Steps",
+  "showAll": "Show All",
+  "collapse": "Collapse",
+  "importantTips": "Important Tips",
+  "emergencyServices": "Emergency Services",
+  "police": "Police",
+  "fire": "Fire",
+  "medicalServices": "Medical",
+  "coastGuard": "Coast Guard",
+  "weather": "Weather",
+  "utilities": "Utilities",
+  "government": "Government",
+  "ngo": "NGO",
+  "rescue": "Rescue",
+  "civilDefense": "Civil Defense",
+  "priorityContact": "Priority Contact",
+  "priority": "PRIORITY",
+  "call": "Call",
+  "noContactsFound": "No contacts found",
+  "tryAdjustingSearch": "Try adjusting your search",
+  "searchContacts": "Search contacts...",
+  "priorityContacts": "Priority Contacts",
+  "emergencyPreparednessTips": "Emergency Preparedness Tips",
+  "prepareEmergencyKit": "Prepare an emergency kit",
+  "knowNearestShelter": "Know your nearest shelter location",
+  "keepPhoneCharged": "Keep your phone charged",
+  "haveFamilyPlan": "Have a family emergency plan",
+  "areYouExperiencingEmergency": "Are you experiencing an emergency?",
+  "callEmergencyServices": "Call emergency services immediately",
+  "quickActionsLabel": "Quick Actions:",
+  "lastUpdated": "Last updated: {date}",
+  "@lastUpdated": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  }
 }

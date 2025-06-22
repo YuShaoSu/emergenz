@@ -99,4 +99,120 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get other => 'Other';
+
+  @override
+  String get emergency => 'Emergency';
+
+  @override
+  String get emergencyProcedures => 'Emergency Procedures';
+
+  @override
+  String get emergencyContacts => 'Emergency Contacts';
+
+  @override
+  String get quickActions => 'Quick Actions';
+
+  @override
+  String get callEmergency => 'Call Emergency';
+
+  @override
+  String get viewMap => 'View Map';
+
+  @override
+  String get contacts => 'Contacts';
+
+  @override
+  String get responseSteps => 'Response Steps';
+
+  @override
+  String get showAll => 'Show All';
+
+  @override
+  String get collapse => 'Collapse';
+
+  @override
+  String get importantTips => 'Important Tips';
+
+  @override
+  String get emergencyServices => 'Emergency Services';
+
+  @override
+  String get police => 'Police';
+
+  @override
+  String get fire => 'Fire';
+
+  @override
+  String get medicalServices => 'Medical';
+
+  @override
+  String get coastGuard => 'Coast Guard';
+
+  @override
+  String get weather => 'Weather';
+
+  @override
+  String get utilities => 'Utilities';
+
+  @override
+  String get government => 'Government';
+
+  @override
+  String get ngo => 'NGO';
+
+  @override
+  String get rescue => 'Rescue';
+
+  @override
+  String get civilDefense => 'Civil Defense';
+
+  @override
+  String get priorityContact => 'Priority Contact';
+
+  @override
+  String get priority => 'PRIORITY';
+
+  @override
+  String get call => 'Call';
+
+  @override
+  String get noContactsFound => 'No contacts found';
+
+  @override
+  String get tryAdjustingSearch => 'Try adjusting your search';
+
+  @override
+  String get searchContacts => 'Search contacts...';
+
+  @override
+  String get priorityContacts => 'Priority Contacts';
+
+  @override
+  String get emergencyPreparednessTips => 'Emergency Preparedness Tips';
+
+  @override
+  String get prepareEmergencyKit => 'Prepare an emergency kit';
+
+  @override
+  String get knowNearestShelter => 'Know your nearest shelter location';
+
+  @override
+  String get keepPhoneCharged => 'Keep your phone charged';
+
+  @override
+  String get haveFamilyPlan => 'Have a family emergency plan';
+
+  @override
+  String get areYouExperiencingEmergency => 'Are you experiencing an emergency?';
+
+  @override
+  String get callEmergencyServices => 'Call emergency services immediately';
+
+  @override
+  String get quickActionsLabel => 'Quick Actions:';
+
+  @override
+  String lastUpdated(String date) {
+    return 'Last updated: $date';
+  }
 }

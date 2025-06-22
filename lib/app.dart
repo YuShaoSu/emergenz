@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'screens/nav_screen.dart';
+import 'screens/procedure_detail_screen.dart';
 import 'l10n/app_localizations.dart';
+import 'models/emergency_procedure.dart';
 
 class MyApp extends StatelessWidget {
   @override
@@ -35,6 +37,18 @@ class MyApp extends StatelessWidget {
       ],
       supportedLocales: AppLocalizations.supportedLocales,
       home: NavScreen(),
+      onGenerateRoute: (settings) {
+        if (settings.name == '/procedure-detail') {
+          final procedure = settings.arguments as EmergencyProcedure;
+          return MaterialPageRoute(
+            builder: (context) => ProcedureDetailScreen(procedure: procedure),
+          );
+        }
+        // Add more routes here as needed
+        return MaterialPageRoute(
+          builder: (context) => NavScreen(),
+        );
+      },
     );
   }
 }

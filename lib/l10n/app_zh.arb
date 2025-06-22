@@ -7,7 +7,8 @@
   "contactsTitle": "聯絡",
   "emergencyKit": "EmergencyKit",
   "resetSelections": "重置選擇",
-  "clearList": "清空清單",  "exportShare": "匯出 / 分享",
+  "clearList": "清空清單",
+  "exportShare": "匯出 / 分享",
   "quantity": "數量: {quantity}",
   "@quantity": {
     "placeholders": {
@@ -15,12 +16,14 @@
         "type": "String"
       }
     }
-  },"listCopiedToClipboard": "清單已複製到剪貼簿",
+  },
+  "listCopiedToClipboard": "清單已複製到剪貼簿",
   "all": "全部",
   "search": "搜尋",
   "searchItems": "搜尋物品...",
   "addItem": "新增物品",
-  "editItem": "編輯物品",  "itemName": "物品名稱",
+  "editItem": "編輯物品",
+  "itemName": "物品名稱",
   "categoryField": "類別",
   "quantityField": "數量",
   "save": "儲存",
@@ -33,5 +36,50 @@
   "medical": "醫療用品",
   "tools": "工具",
   "clothing": "衣物",
-  "other": "其他"
+  "other": "其他",
+  "emergency": "緊急",
+  "emergencyProcedures": "緊急應變程序",
+  "emergencyContacts": "緊急聯絡電話",
+  "quickActions": "快速操作",
+  "callEmergency": "撥打緊急電話",
+  "viewMap": "查看地圖",
+  "contacts": "聯絡人",
+  "responseSteps": "應變步驟",
+  "showAll": "展開全部",
+  "collapse": "收起",
+  "importantTips": "重要提醒",
+  "emergencyServices": "緊急服務",
+  "police": "警察",
+  "fire": "消防",
+  "medicalServices": "醫療",
+  "coastGuard": "海巡",
+  "weather": "氣象",
+  "utilities": "公用事業",
+  "government": "政府",
+  "ngo": "非政府組織",
+  "rescue": "搜救",
+  "civilDefense": "民防",
+  "priorityContact": "優先聯絡",
+  "priority": "優先",
+  "call": "撥打",
+  "noContactsFound": "沒有找到聯絡人",
+  "tryAdjustingSearch": "嘗試調整搜尋條件",
+  "searchContacts": "搜尋聯絡人...",
+  "priorityContacts": "優先聯絡電話",
+  "emergencyPreparednessTips": "緊急準備小貼士",
+  "prepareEmergencyKit": "準備緊急應變包",
+  "knowNearestShelter": "了解最近的避難所位置",
+  "keepPhoneCharged": "保持手機電量充足",
+  "haveFamilyPlan": "與家人制定應急計劃",
+  "areYouExperiencingEmergency": "緊急情況？",
+  "callEmergencyServices": "立即撥打緊急電話",
+  "quickActionsLabel": "快速操作：",
+  "lastUpdated": "最後更新：{date}",
+  "@lastUpdated": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  }
 }

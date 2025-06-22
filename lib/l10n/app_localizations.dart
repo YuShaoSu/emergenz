@@ -274,6 +274,234 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Other'**
   String get other;
+
+  /// No description provided for @emergency.
+  ///
+  /// In en, this message translates to:
+  /// **'Emergency'**
+  String get emergency;
+
+  /// No description provided for @emergencyProcedures.
+  ///
+  /// In en, this message translates to:
+  /// **'Emergency Procedures'**
+  String get emergencyProcedures;
+
+  /// No description provided for @emergencyContacts.
+  ///
+  /// In en, this message translates to:
+  /// **'Emergency Contacts'**
+  String get emergencyContacts;
+
+  /// No description provided for @quickActions.
+  ///
+  /// In en, this message translates to:
+  /// **'Quick Actions'**
+  String get quickActions;
+
+  /// No description provided for @callEmergency.
+  ///
+  /// In en, this message translates to:
+  /// **'Call Emergency'**
+  String get callEmergency;
+
+  /// No description provided for @viewMap.
+  ///
+  /// In en, this message translates to:
+  /// **'View Map'**
+  String get viewMap;
+
+  /// No description provided for @contacts.
+  ///
+  /// In en, this message translates to:
+  /// **'Contacts'**
+  String get contacts;
+
+  /// No description provided for @responseSteps.
+  ///
+  /// In en, this message translates to:
+  /// **'Response Steps'**
+  String get responseSteps;
+
+  /// No description provided for @showAll.
+  ///
+  /// In en, this message translates to:
+  /// **'Show All'**
+  String get showAll;
+
+  /// No description provided for @collapse.
+  ///
+  /// In en, this message translates to:
+  /// **'Collapse'**
+  String get collapse;
+
+  /// No description provided for @importantTips.
+  ///
+  /// In en, this message translates to:
+  /// **'Important Tips'**
+  String get importantTips;
+
+  /// No description provided for @emergencyServices.
+  ///
+  /// In en, this message translates to:
+  /// **'Emergency Services'**
+  String get emergencyServices;
+
+  /// No description provided for @police.
+  ///
+  /// In en, this message translates to:
+  /// **'Police'**
+  String get police;
+
+  /// No description provided for @fire.
+  ///
+  /// In en, this message translates to:
+  /// **'Fire'**
+  String get fire;
+
+  /// No description provided for @medicalServices.
+  ///
+  /// In en, this message translates to:
+  /// **'Medical'**
+  String get medicalServices;
+
+  /// No description provided for @coastGuard.
+  ///
+  /// In en, this message translates to:
+  /// **'Coast Guard'**
+  String get coastGuard;
+
+  /// No description provided for @weather.
+  ///
+  /// In en, this message translates to:
+  /// **'Weather'**
+  String get weather;
+
+  /// No description provided for @utilities.
+  ///
+  /// In en, this message translates to:
+  /// **'Utilities'**
+  String get utilities;
+
+  /// No description provided for @government.
+  ///
+  /// In en, this message translates to:
+  /// **'Government'**
+  String get government;
+
+  /// No description provided for @ngo.
+  ///
+  /// In en, this message translates to:
+  /// **'NGO'**
+  String get ngo;
+
+  /// No description provided for @rescue.
+  ///
+  /// In en, this message translates to:
+  /// **'Rescue'**
+  String get rescue;
+
+  /// No description provided for @civilDefense.
+  ///
+  /// In en, this message translates to:
+  /// **'Civil Defense'**
+  String get civilDefense;
+
+  /// No description provided for @priorityContact.
+  ///
+  /// In en, this message translates to:
+  /// **'Priority Contact'**
+  String get priorityContact;
+
+  /// No description provided for @priority.
+  ///
+  /// In en, this message translates to:
+  /// **'PRIORITY'**
+  String get priority;
+
+  /// No description provided for @call.
+  ///
+  /// In en, this message translates to:
+  /// **'Call'**
+  String get call;
+
+  /// No description provided for @noContactsFound.
+  ///
+  /// In en, this message translates to:
+  /// **'No contacts found'**
+  String get noContactsFound;
+
+  /// No description provided for @tryAdjustingSearch.
+  ///
+  /// In en, this message translates to:
+  /// **'Try adjusting your search'**
+  String get tryAdjustingSearch;
+
+  /// No description provided for @searchContacts.
+  ///
+  /// In en, this message translates to:
+  /// **'Search contacts...'**
+  String get searchContacts;
+
+  /// No description provided for @priorityContacts.
+  ///
+  /// In en, this message translates to:
+  /// **'Priority Contacts'**
+  String get priorityContacts;
+
+  /// No description provided for @emergencyPreparednessTips.
+  ///
+  /// In en, this message translates to:
+  /// **'Emergency Preparedness Tips'**
+  String get emergencyPreparednessTips;
+
+  /// No description provided for @prepareEmergencyKit.
+  ///
+  /// In en, this message translates to:
+  /// **'Prepare an emergency kit'**
+  String get prepareEmergencyKit;
+
+  /// No description provided for @knowNearestShelter.
+  ///
+  /// In en, this message translates to:
+  /// **'Know your nearest shelter location'**
+  String get knowNearestShelter;
+
+  /// No description provided for @keepPhoneCharged.
+  ///
+  /// In en, this message translates to:
+  /// **'Keep your phone charged'**
+  String get keepPhoneCharged;
+
+  /// No description provided for @haveFamilyPlan.
+  ///
+  /// In en, this message translates to:
+  /// **'Have a family emergency plan'**
+  String get haveFamilyPlan;
+
+  /// No description provided for @areYouExperiencingEmergency.
+  ///
+  /// In en, this message translates to:
+  /// **'Are you experiencing an emergency?'**
+  String get areYouExperiencingEmergency;
+
+  /// No description provided for @callEmergencyServices.
+  ///
+  /// In en, this message translates to:
+  /// **'Call emergency services immediately'**
+  String get callEmergencyServices;
+
+  /// No description provided for @quickActionsLabel.
+  ///
+  /// In en, this message translates to:
+  /// **'Quick Actions:'**
+  String get quickActionsLabel;
+
+  /// No description provided for @lastUpdated.
+  ///
+  /// In en, this message translates to:
+  /// **'Last updated: {date}'**
+  String lastUpdated(String date);
 }
 
 class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {
