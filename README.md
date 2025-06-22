@@ -1,6 +1,23 @@
 # 🇹🇼 Taiwan Emergency Guide App
 
-A comprehensive emergency preparedness and response application designed specifically for Taiwan, providing offline access to critical emergency information, procedures, and resources.
+本專案旨在開發一個協助台灣民眾應對各類緊急狀況的行動平台。雖有政府官方平台如 [全民防災e點通](https://bear.emic.gov.tw/)，但本專案希望能做到離線運作，並結合開源社群的力量持續完善功能。
+
+> :warning: **免責聲明：本專案內容僅供參考，可能有錯誤或過時資訊，請以政府公開資訊為主。如有侵權或不當內容請來信告知，將儘速修正。** :warning:
+
+A comprehensive emergency preparedness and response application for Taiwan, providing offline access to critical emergency information, procedures, and resources. **This is an open-source, community-driven project.**
+
+---
+
+## 📚 資料來源 & Credits
+- 地圖資料與圖磚：© [OpenStreetMap](https://www.openstreetmap.org/) contributors，依 [ODbL](https://opendatacommons.org/licenses/odbl/1-0/) 授權條款使用。
+- Map data & tiles © OpenStreetMap contributors, licensed under ODbL.
+- [全民防災e點通](https://bear.emic.gov.tw/)
+- [高雄市政府消防局](https://fdkc.kcg.gov.tw/)
+- [黑熊學院](https://kuma-academy.org/)
+- [消防防災館](https://www.tfdp.com.tw/)
+- 本專案使用多個開源 Flutter/Dart 套件，詳見 `pubspec.yaml`。
+
+---
 
 ## 🚨 Features
 
@@ -315,7 +332,9 @@ We welcome contributions to improve the Taiwan Emergency Guide App!
 
 ## 📄 **License**
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+---
 
 ## 🆘 **Emergency Information**
 
@@ -330,6 +349,15 @@ Always follow official emergency instructions and evacuate when directed by auth
 
 ---
 
-**Note**: This app is for emergency preparedness and information purposes. Always follow official emergency procedures and instructions from local authorities during actual emergencies.
+## 🤝 Contributing
+
+歡迎任何人參與改進本專案！
+- 請於 GitHub Issues 回報錯誤或建議
+- Pull Request 請遵循 Flutter/Dart coding style
+- 請尊重所有第三方授權與資料來源
+
+---
 
 **🇹🇼 台灣緊急應變指南** - 為台灣人民提供全面的緊急應變支援
+
+> This app is for emergency preparedness and information purposes. Always follow official emergency procedures and instructions from local authorities during actual emergencies.
